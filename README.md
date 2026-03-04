@@ -1,4 +1,4 @@
-# 370_GroupProject_Bracu_Edition
+# 370_GroupProject_Bracu_Edition(Group 2)
 
 Hello Smart People!
 Welcome to our 370 Lab Project Repository.
