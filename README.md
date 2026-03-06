@@ -36,8 +36,37 @@ Welcome to our 370 Lab Project Repository.
 * **Database:** MariaDB 
 * **Backend:** Node.js
 * **Frontend:** JavaScript,Html,CSS (Responsive dashboard).
+* **Environment:** Developed on Fedora Linux
 
 
+
+#  PeerStudy: Collaborative Note Sharing & Q&A
+
+A specialized platform for university students to share academic resources, engage in peer-to-peer learning, and build a collective knowledge base.
+
+##  Features
+
+###  Note Management
+* **Course-Centric Organization:** Filter notes by course codes and departments (CSE/EEE/BBA).
+* **Versioning:** Track changes and updates made to shared study materials.
+* **Markdown Support:** Write and render technical notes with mathematical equations.
+
+###  Interactive Q&A
+* **Integrated Forum:** Ask questions directly on shared notes to get contextual help.
+* **Reputation System:** Earn points by providing verified answers to classmates.
+* **Tagging System:** Use hashtags to categorize questions by topic (e.g., #Recursion, #Microcontrollers).
+
+###  Advanced Tools
+* **Real-time Collaboration:** Join study rooms to discuss specific topics.
+* **Search Optimization:** Find relevant notes quickly using advanced metadata filtering.
+
+##  Tech Stack
+* **Frontend:** Html, CSS, JavaScript
+* **Backend:** Node.js
+* **Database:** MariaDB
+* **Environment:** Developed on Fedora Linux
+
+-----------------------------------------------------------------------------------------------------------------------
 
 This repo is currently under Maintenance.
 The rights of the Project are reserved to:
