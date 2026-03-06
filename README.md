@@ -4,6 +4,7 @@ Hello Smart People!
 Welcome to our 370 Lab Project Repository.
 
 
+### University Credit Transfer & Equivalency Portal
 
 ##  Key Features
 
