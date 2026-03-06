@@ -16,7 +16,7 @@ Welcome to our 370 Lab Project Repository.
 * **North American Credit Alignment:** Logic-based matching for US and Canadian semester-hour systems.
 * **Formula-Driven Results:** Displays the conversion logic ($1 \text{ Brac Credit} \approx 2 \text{ ECTS}$) to provide transparency to the student.
 
-### 📊3. The "5x5" Global Database
+### 3. The "5x5" Global Database
 * **Geographic Diversity:** A curated **MariaDB** database featuring 5 top-tier universities from 5 strategic countries.
     * **Europe:** Italy, Ireland, Germany (ECTS Focus).
     * **North America:** USA, Canada (Credit Hour Focus).
