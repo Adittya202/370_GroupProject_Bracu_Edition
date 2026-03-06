@@ -30,7 +30,6 @@ Welcome to our 370 Lab Project Repository.
 * **Mapping Manager:** A secure interface for administrators to Create, Read, Update, and Delete (CRUD) university data and course mappings.
 * **Verification System:** Ability to tag mappings as "Verified" or "Under Review" based on the latest university circulars.
 
----
 
 ##  Finally Software is used for this project
 * **Database:** MariaDB 
@@ -38,7 +37,7 @@ Welcome to our 370 Lab Project Repository.
 * **Frontend:** JavaScript,Html,CSS (Responsive dashboard).
 * **Environment:** Developed on Fedora Linux
 
-
+--------------------------------------------------------------------------------------------------------------------
 
 #  PeerStudy: Collaborative Note Sharing & Q&A
 
