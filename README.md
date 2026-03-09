@@ -69,7 +69,7 @@ The platform acts as a bridge between skill providers and skill learners, allowi
 7. To encourage collaboration and knowledge sharing among users.
 
 -------------------------------------------------------------------------------------------------------------------
-### Features
+# Features
 
 ## How the System Works
 The platform operates through a simple process:
