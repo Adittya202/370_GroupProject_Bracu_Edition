@@ -4,38 +4,74 @@ Hello Smart People!
 Welcome to our 370 Lab Project Repository.
 
 
-# University Credit Transfer & Equivalency Portal
 
-##  Key Features
-
-###  1. Smart Equivalency Search
-* **Program-Specific Portals:** Dedicated views for **CSE, EEE, and BBA** to ensure students only see relevant departmental mappings.
-*  Check all the common courses that are available to transfer.
-
-###  2. Credit Conversion Engine
-* **Automatic ECTS Mapping:** Real-time conversion of Brac University credits to the European Credit Transfer and Accumulation System (ECTS).
-Example, 1 Brac Creedit == 2 ECTS
+# Credit Transfer and Equivalency Search System
 
 
-###  3. Students prefered sorting
-- Sort by Total Credits available to transfer or Top ranked Universities.
+## A One-Stop Solution for Undergraduate Students Seeking Credit
+Transfer Abroad
+This document describes the concept and structure of a database system called 'Credit Transfer and
+Equivalency Search'. The goal of the system is to provide a centralized platform where undergraduate
+students can easily search for universities, compare transferable credits, understand admission
+requirements, and prepare for studying abroad.
 
 
-###  4. Administrative Control Panel (CRUD)
-* **Mapping Manager:** A secure interface for administrators to Create, Read, Update, and Delete (CRUD) university data and course mappings.
-* **Verification System:** Ability to tag mappings as "Verified" or "Under Review" based on the latest university circulars.
+### 1. Country Filtration
+Students can filter potential study destinations by country. Information includes IELTS requirements,
+average tuition fees, visa difficulty, and living costs.
+### 2. Program Selection
+Students can choose their intended academic program such as Computer Science, Business
+Administration, Data Science, or Engineering.
+### 3. University Selection
+The system allows students to browse universities offering the selected program along with ranking,
+location, and website information.
+### 4. University Filtering
+Universities can be filtered based on ranking, maximum transferable credits, tuition cost, and
+international student friendliness.
+### 5. Credit Equivalency
+This is the core feature of the system. Students input their completed courses and credits, and the
+system suggests equivalent courses and transferable credits at target universities.
+### 6. SOP Database
+The system provides multiple Statement of Purpose (SOP) templates including academic-focused,
+career-focused, and research-focused formats.
+### 7. Professor and Alumni Contact
+Students can access contact information for professors and alumni, including research areas, email
+addresses, and LinkedIn profiles.
+### 8. City and Accommodation Information
+This module provides details about the city where the university is located, including accommodation
+options, hostel facilities, average rent, and estimated living costs.
+### 9. Verified Facebook Groups
+The system stores verified Facebook groups and communities related to each university, helping
+students connect with current students and alumni.
+### 10. English Exam Recommendations
+The system recommends common English proficiency exams such as IELTS, TOEFL, and PTE.
+Typical minimum IELTS requirement is 6.0–6.5.
+### 11. Required Documents
+Students receive a checklist of required documents including passport, academic transcripts, course
+syllabus, English test results, SOP, and recommendation letters.
+### 12. Visa Processing Guide
+The system provides country-specific visa information including processing time, financial proof
+requirements, and official embassy links.
 
-### 5. Seperate User Interface
 
 
-### 6. University Contact
-- Users can directly contact with their prefered universities for offer letter or other informations through Mail.
-- Mail address will be given
-
-
-### 7. Help Desk
--Users will be able to send any feedback or ask admin for help
-
+## Suggested Database Tables
+Main Database Tables
+Countries
+Programs
+Universities
+Courses
+Credit_Equivalency
+SOP_Templates
+Professors
+Alumni
+Cities
+Accommodations
+English_Exams
+Documents
+Visa_Info
+Facebook_Groups
+Students
 
 ##  Finally Software is used for this project
 * **Database:** MariaDB 
