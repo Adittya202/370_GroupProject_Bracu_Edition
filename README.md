@@ -45,25 +45,35 @@ Example, 1 Brac Creedit == 2 ECTS
 
 --------------------------------------------------------------------------------------------------------------------
 
-#  PeerStudy: Collaborative Note Sharing & Q&A
+#  PeerStudy: Skill Trading Center
 
-A specialized platform for university students to share academic resources, engage in peer-to-peer learning, and build a collective knowledge base.
+A specialized platform for university students to share academic resources and respective skills, engage in peer-to-peer learning, and build a collective knowledge base.
 
 ##  Features
+
+### Resource Bank
+
+- All the necessary course materials will be shared in different folders.
 
 ###  Note Management
 * **Course-Centric Organization:** Filter notes by course codes and departments (CSE/EEE/BBA).
 * **Versioning:** Track changes and updates made to shared study materials.
-* **Markdown Support:** Write and render technical notes with mathematical equations.
+
 
 ###  Interactive Q&A
-* **Integrated Forum:** Ask questions directly on shared notes to get contextual help.
-* **Reputation System:** Earn points by providing verified answers to classmates.
-* **Tagging System:** Use hashtags to categorize questions by topic (e.g., #Recursion, #Microcontrollers).
 
-###  Advanced Tools
-* **Real-time Collaboration:** Join study rooms to discuss specific topics.
-* **Search Optimization:** Find relevant notes quickly using advanced metadata filtering.
+- Users can post for their help
+- Other users are able to comment and exchange skills.
+
+### Users profile Dashboard
+- Every user should have a profile and his skills will be added there.
+
+### Different Admin Panel
+- Admin are able to approve or reject posts and control all other changes.
+
+### Help Desk
+
+- Users are able to share any feedback or ask for help  from this section.
 
 ##  Tech Stack
 * **Frontend:** Html, CSS, JavaScript
