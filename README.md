@@ -81,6 +81,42 @@ A specialized platform for university students to share academic resources and r
 * **Database:** MariaDB
 * **Environment:** Developed on Fedora Linux
 
+
+-----------------------------------------------------------------------------------------------------------------------
+
+# JonoSheba: An online consultation with doctors
+
+## Key Features
+
+### 1. Choose your option
+- Patient can go for his perticular issue or disease.
+
+### 2. Doctor Choose
+- Doctors will be sorted according to their expertism. Patients can select doctors according to their experience, skills and ratings
+
+### 3. Book Doctors
+- Patient can take an appointment in their prefered time
+
+### 4. Payment System
+- Patients have to pay their fees i9n order to take the appoinment
+
+### 5. Video Conferencing
+- Patients will be able to take consultation through video calling.
+
+### 6. Prescription
+- Doctors are able to share their prescription in this section.
+
+### 7. Chatting interface
+- Doctors and patients are able to chat and share pictures in this segment
+
+### 8. Admin Control
+ - Admin will approve the appoinment after patient complete his payment.
+ - Admin are able to make any changes.
+
+ ### 9. Help Desk
+ -User can send their feedback or ask for any help in this segment.
+
+
 -----------------------------------------------------------------------------------------------------------------------
 
 This repo is currently under Maintenance.
