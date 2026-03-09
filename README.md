@@ -47,9 +47,8 @@ Example, 1 Brac Creedit == 2 ECTS
 
 #  PeerStudy: Skill Trading Center
 
-A specialized platform for university students to share academic resources and respective skills, engage in peer-to-peer learning, and build a collective knowledge base.
+The platform acts as a bridge between skill providers and skill learners, allowing them to find suitable matches and schedule learning sessions. By encouraging knowledge sharing, the platform promotes community engagement and continuous learning.
 
-##  Features
 
 ## Objectives of the System
 
@@ -70,6 +69,7 @@ A specialized platform for university students to share academic resources and r
 7. To encourage collaboration and knowledge sharing among users.
 
 -------------------------------------------------------------------------------------------------------------------
+### Features
 
 ## How the System Works
 The platform operates through a simple process:
