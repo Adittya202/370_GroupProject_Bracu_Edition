@@ -57,21 +57,21 @@ requirements, and official embassy links.
 
 ## Suggested Database Tables
 Main Database Tables
-Countries
-Programs
-Universities
-Courses
-Credit_Equivalency
-SOP_Templates
-Professors
-Alumni
-Cities
-Accommodations
-English_Exams
-Documents
-Visa_Info
-Facebook_Groups
-Students
+- Countries
+- programs
+- Universities
+- Courses
+- Credit_Equivalency
+- SOP_Templates
+- Professors
+- Alumni
+- Cities
+- Accommodations
+- English_Exams
+- Documents
+- Visa_Info
+- Facebook_Groups
+- Students
 
 ##  Finally Software is used for this project
 * **Database:** MariaDB 
