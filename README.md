@@ -69,6 +69,59 @@ A specialized platform for university students to share academic resources and r
 
 7. To encourage collaboration and knowledge sharing among users.
 
+-------------------------------------------------------------------------------------------------------------------
+
+## How the System Works
+The platform operates through a simple process:
+
+## User Registration
+
+- Users create an account on the platform.
+
+- They provide basic information such as name, email, and profile details.
+
+## Skill Profile Creation
+
+- Users list the skills they possess and their proficiency levels.
+
+- They may also specify skills they are interested in learning.
+
+## Skill Offering
+
+- Users can create offers for skills they are willing to teach.
+
+- These offers include details such as skill level, availability, and session preferences.
+
+## Skill Request
+
+- Users can submit requests for skills they want to learn.
+
+- The system stores these requests in the database.
+
+## Skill Matching
+
+- The system identifies possible matches between skill offers and skill requests.
+
+- Users can browse available offers and connect with others.
+
+## Session Scheduling
+
+- When a match is found, users can schedule a learning session.
+
+- Sessions can be conducted online or offline.
+
+## Feedback and Rating
+
+- After completing a session, users can rate and review each other.
+
+- This helps maintain quality and trust within the platform.
+
+## Learning History
+
+- The platform records all completed sessions and feedback.
+
+- Users can track their learning progress over time.
+
 ##  Tech Stack
 * **Frontend:** Html, CSS, JavaScript
 * **Backend:** Node.js
