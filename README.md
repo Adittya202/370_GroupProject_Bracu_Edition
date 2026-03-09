@@ -53,7 +53,7 @@ A specialized platform for university students to share academic resources and r
 
 ## Objectives of the System
 
-## The main objectives of the Skill Exchange Platform are:
+- The main objectives of the Skill Exchange Platform are:
 
 1. To create a community where users can exchange skills without financial cost.
 
@@ -74,49 +74,49 @@ A specialized platform for university students to share academic resources and r
 ## How the System Works
 The platform operates through a simple process:
 
-## User Registration
+## 1.User Registration
 
 - Users create an account on the platform.
 
 - They provide basic information such as name, email, and profile details.
 
-## Skill Profile Creation
+## 2.Skill Profile Creation
 
 - Users list the skills they possess and their proficiency levels.
 
 - They may also specify skills they are interested in learning.
 
-## Skill Offering
+## 3.Skill Offering
 
 - Users can create offers for skills they are willing to teach.
 
 - These offers include details such as skill level, availability, and session preferences.
 
-## Skill Request
+## 4.Skill Request
 
 - Users can submit requests for skills they want to learn.
 
 - The system stores these requests in the database.
 
-## Skill Matching
+## 5.Skill Matching
 
 - The system identifies possible matches between skill offers and skill requests.
 
 - Users can browse available offers and connect with others.
 
-## Session Scheduling
+## 6.Session Scheduling
 
 - When a match is found, users can schedule a learning session.
 
 - Sessions can be conducted online or offline.
 
-## Feedback and Rating
+## 7.Feedback and Rating
 
 - After completing a session, users can rate and review each other.
 
 - This helps maintain quality and trust within the platform.
 
-## Learning History
+## 8.Learning History
 
 - The platform records all completed sessions and feedback.
 
