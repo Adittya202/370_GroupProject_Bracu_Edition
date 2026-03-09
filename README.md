@@ -18,7 +18,7 @@ Example, 1 Brac Creedit == 2 ECTS
 
 
 ###  3. Students prefered sorting
--Sort by Total Credits available to transfer or Top ranked Universities.
+- Sort by Total Credits available to transfer or Top ranked Universities.
 
 
 ###  4. Administrative Control Panel (CRUD)
@@ -114,7 +114,7 @@ A specialized platform for university students to share academic resources and r
  - Admin are able to make any changes.
 
  ### 9. Help Desk
- -User can send their feedback or ask for any help in this segment.
+ - User can send their feedback or ask for any help in this segment.
 
 
 -----------------------------------------------------------------------------------------------------------------------
