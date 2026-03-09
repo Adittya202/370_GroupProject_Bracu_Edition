@@ -51,29 +51,23 @@ A specialized platform for university students to share academic resources and r
 
 ##  Features
 
-### Resource Bank
+## Objectives of the System
 
-- All the necessary course materials will be shared in different folders.
+## The main objectives of the Skill Exchange Platform are:
 
-###  Note Management
-* **Course-Centric Organization:** Filter notes by course codes and departments (CSE/EEE/BBA).
-* **Versioning:** Track changes and updates made to shared study materials.
+1. To create a community where users can exchange skills without financial cost.
 
+2. To help individuals learn new skills from peers.
 
-###  Interactive Q&A
+3. To provide an organized system for offering and requesting skills.
 
-- Users can post for their help
-- Other users are able to comment and exchange skills.
+4. To facilitate scheduling and management of learning sessions.
 
-### Users profile Dashboard
-- Every user should have a profile and his skills will be added there.
+5. To build trust through feedback and rating systems.
 
-### Different Admin Panel
-- Admin are able to approve or reject posts and control all other changes.
+6. To maintain records of all skill exchanges and learning activities.
 
-### Help Desk
-
-- Users are able to share any feedback or ask for help  from this section.
+7. To encourage collaboration and knowledge sharing among users.
 
 ##  Tech Stack
 * **Frontend:** Html, CSS, JavaScript
