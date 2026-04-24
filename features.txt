@@ -1,0 +1,21 @@
+2. Program Selection
+Students can choose their intended academic program such as Computer Science, Business Administration, Data Science, or Engineering.
+
+
+-- what is the database query that runs after program selection? 
+-- how is the feature implemented? what happens after the user selects a specific program.
+-- how is the UI implemented? is it a dropdown/button/tag?
+
+10. English Exam Recommendations
+The system recommends common English proficiency exams such as IELTS, TOEFL, and PTE. Typical minimum IELTS requirement is 6.0–6.5.
+
+-- proper database with proper queries that gets executed. 
+-- how is the feature implemented? 
+-- how is the UI implemented? is it a dropdown/button/tag?
+
+11. Required Documents
+Students receive a checklist of required documents including passport, academic transcripts, course syllabus, English test results, SOP, and recommendation letters.
+
+-- proper database with proper queries that gets executed. 
+-- how is the feature implemented? 
+-- how is the UI implemented? is it a dropdown/button/tag?
