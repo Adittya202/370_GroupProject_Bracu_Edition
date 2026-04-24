@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<?php include('includes/db.php'); ?>
 <html lang="">
   <head>
      <title>SOP Templates</title>

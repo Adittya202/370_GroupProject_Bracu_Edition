@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<?php include('includes/db.php'); ?>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,9 +16,9 @@
     <h2>Features</h2>
 
     <ul>
-        <li><a href="country.html">Country Filtration</a></li>
-        <li><a href="university.html">University Selection</a></li>
-        <li><a href="sop.html">SOP Database</a></li>
+        <li><a href="country.php">Country Filtration</a></li>
+        <li><a href="university.php">University Selection</a></li>
+        <li><a href="sop.php">SOP Database</a></li>
     </ul>
 
 </main>
