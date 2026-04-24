@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = ""; // Default Fedora MariaDB password is usually empty for root
-$dbname = "credit_transfer_db"; // We will confirm this name shortly
+$password = "canon6d"; // Updated password
+$dbname = "credit_transfer_system";
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 
