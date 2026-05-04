@@ -75,16 +75,16 @@ Main Database Tables
 
 ##  Finally Software is used for this project
 * **Database:** MariaDB 
-* **Backend:** Node.js
+* **Backend:** PHP
 * **Frontend:** JavaScript,Html,CSS (Responsive dashboard).
-* **Environment:** Developed on Fedora Linux
+* **Environment:** Developed on Fedora Linux- IDE VSCODE
 
 --------------------------------------------------------------------------------------------------------------------
 
 
 -----------------------------------------------------------------------------------------------------------------------
 
-This repo is currently under Maintenance.
+
 The rights of the Project are reserved to:
 - Taseen Mohammad Faruk
 - Arunima Lodh
