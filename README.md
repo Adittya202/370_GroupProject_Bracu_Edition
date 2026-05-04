@@ -5,7 +5,7 @@ Welcome to our 370 Lab Project Repository.
 
 
 
-# Credit Transfer and Equivalency Search System
+# Credit Transfer Portal
 
 
 ## A One-Stop Solution for Undergraduate Students Seeking Credit
